@@ -1,0 +1,12 @@
+public class AWTDrawer3D extends AWTDrawer {
+
+    public AWTDrawer3D(Plot3DCanvas _canvas) {
+        super(_canvas);
+        projection = new Projection3D(this);
+    }
+
+    public void rotate(int[] t, int[] panelSize) {
+        ((Projection3D) projection).rotate(t, panelSize);
+    }
+
+}
