@@ -124,9 +124,3 @@ from which you can copy everything (CTRL-A, CTRL-C) and paste it into a
 file (CTRL-V) to be saved with the .eps extension.
 
 
-*Last update: 8/5/2006*
-
-*This work was supported in part by the National Science Foundation
-under Grant \#DMS-0135345.*
-
-
