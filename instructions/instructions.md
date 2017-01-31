@@ -1,8 +1,9 @@
 Instructions
 ============
+When the applet loads, a menubar and blank x- and y-axes are displayed. The menubar is shown below. The applet requires at least Java JRE 1.4 to run. 
+
   ![](04.jpg)   
- When the applet loads, a menubar and blank x- and y-axes are displayed. The menubar is shown at above. The applet requires at least Java JRE 1.4 to run. 
- 
+
  The menubar provides means to enter the coordinates of any number of nodes, set a predefined pattern of nodes, remove nodes one-by-one or all at once, choose for which node the shape function should be calculated, choose a shape function formulation, and calculate the value of the shape function at any given point inside the element. There are also toggle buttons to choose whether to display a plot, the axes, and node labels, and whether to allow node placement by clicking in the plot area.
 
 ![](05.jpg)
