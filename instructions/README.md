@@ -1,6 +1,6 @@
 Instructions
 ============
-When the applet loads, a menubar and blank x- and y-axes are displayed. The menubar is shown below. The applet requires at least Java JRE 1.4 to run. 
+When the applet loads, a menubar and blank x- and y-axes are displayed. The menubar is shown below. 
 
   ![](04.jpg)   
 
